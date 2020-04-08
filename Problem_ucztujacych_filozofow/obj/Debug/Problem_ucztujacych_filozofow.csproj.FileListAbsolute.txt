@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Problem_ucztujacych_filozofow\Problem_ucztujacych_filozofow\bin\Debug\Problem_ucztujacych_filozofow.exe.config
+C:\Users\HP\Desktop\Problem_ucztujacych_filozofow\Problem_ucztujacych_filozofow\bin\Debug\Problem_ucztujacych_filozofow.exe
+C:\Users\HP\Desktop\Problem_ucztujacych_filozofow\Problem_ucztujacych_filozofow\bin\Debug\Problem_ucztujacych_filozofow.pdb
+C:\Users\HP\Desktop\Problem_ucztujacych_filozofow\Problem_ucztujacych_filozofow\obj\Debug\Problem_ucztujacych_filozofow.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Problem_ucztujacych_filozofow\Problem_ucztujacych_filozofow\obj\Debug\Problem_ucztujacych_filozofow.Form1.resources
+C:\Users\HP\Desktop\Problem_ucztujacych_filozofow\Problem_ucztujacych_filozofow\obj\Debug\Problem_ucztujacych_filozofow.Properties.Resources.resources
+C:\Users\HP\Desktop\Problem_ucztujacych_filozofow\Problem_ucztujacych_filozofow\obj\Debug\Problem_ucztujacych_filozofow.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Problem_ucztujacych_filozofow\Problem_ucztujacych_filozofow\obj\Debug\Problem_ucztujacych_filozofow.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Problem_ucztujacych_filozofow\Problem_ucztujacych_filozofow\obj\Debug\Problem_ucztujacych_filozofow.exe
+C:\Users\HP\Desktop\Problem_ucztujacych_filozofow\Problem_ucztujacych_filozofow\obj\Debug\Problem_ucztujacych_filozofow.pdb
